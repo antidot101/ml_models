@@ -5,8 +5,8 @@
 
 --------------------------
 Used instruments:
-Jupyter Notebook v. 6.0.2
-Python v. 3.7.3
-Scikit-Learn v.0.22
-Numpy v.1.17.4
-Pandas v.0.25.3
+* Jupyter Notebook v. 6.0.2
+* Python v. 3.7.3
+* Scikit-Learn v.0.22
+* Numpy v.1.17.4
+* Pandas v.0.25.3
